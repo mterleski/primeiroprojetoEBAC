@@ -121,9 +121,8 @@ int main()
 	comparacao=strcmp(senhadigitada,"admin");
 	
 	if(comparacao==0){
-		
+		system("cls");
 	
-
 		for(laco=1;laco=1;)
 		{
 	
